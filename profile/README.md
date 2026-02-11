@@ -1,21 +1,13 @@
-# lescape
+## lescape
 
-## 👋
+- 💻 소규모 개발자 모임
+  - PHP, Python 백엔드 기반으로 시작했으나, 현재는 AI 위주
+- 🗓 비정기적으로 토이프로젝트 혹은 발표(세미나) 진행
 
-- 함께 배우고 성장하는 소규모 개발 스터디 모임입니다.
-- 첫 모임을 명동 레스케이프 호텔 근처에서 가진 것을 계기로 'lescape'라는 이름을 사용하고 있습니다.
-
-## 📚
-
-- 스터디 과정에서 생산된 자료나 멤버들이 진행하는 프로젝트를 Organization 저장소에 공유합니다.
-- PHP, Python, Java, JS를 사용합니다.
-
-## 🗓
-
-- 2주 동안 스터디 주제를 확인 및 선정하고, 3개월 스터디 + 3개월 휴식 을 반복합니다.
-- 스터디 기간 중에는 매주 1회 온라인으로 진행 상황을 공유하고 함께 학습합니다.
-- 스터디가 끝난 후에는 오프라인 모임을 통해 회고하고 교류하는 시간을 갖습니다.
-
-## ✨
-
-- 문의 : [kimchanhyung98@gmail.com](mailto:kimchanhyung98@gmail.com)
+<details> 
+	<summary>🦦 <a target="_blank" href="mailto:kimchanhyung98@gmail.com">kimchanhyung98@gmail.com</a></summary>
+	<br>
+  <ul>
+	<li>첫 모임을 레스케이프 호텔 근처에서 가진 것을 계기로 'lescape'라는 이름을 사용하고 있습니다.</li>
+	</ul>
+</details>
